@@ -14,6 +14,12 @@ brew install mongodb
 show dbs
 `
 
+#Usar uma base
+
+`
+use database
+`
+
 #Comandos CRUD
 
 Create:
