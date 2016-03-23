@@ -1,5 +1,7 @@
 # Monguinho
 
+![GitHub Logo](/mongodb.png)
+
 Neste documento são mostrados os aspectos iniciais do [MongoDB](https://www.mongodb.org/). MongoDB é um banco livre, baseado em documentos para fácil desenvolvimento e escalável. Atualmente é um dos melhores bancos NoSQL disponíveis no mercado. Possui suporte a diversas linguagens, tais como [Javascript](https://docs.mongodb.org/getting-started/node), [Python](https://docs.mongodb.org/getting-started/python), [C++](https://docs.mongodb.org/getting-started/cpp), [Java](https://docs.mongodb.org/getting-started/java) e [C#](https://docs.mongodb.org/getting-started/csharp).
 
 
