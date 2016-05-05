@@ -88,16 +88,16 @@ db.ships.findOne({'name':'USS Defiant'})
 
 ```javascript
 // $gt / $gte - greater than / greater than equals
-db.ships.find({class:{$gt:’P'}})
+db.ships.find({class:{$gt:'P'}})
 
 // $lt / $lte - lesser than / lesser than equals
-db.ships.find({class:{$lte:’P'}})
+db.ships.find({class:{$lte:'P'}})
 
 // $exists - does an attribute exist or not
 db.ships.find({type:{$exists:true}})
 
 // $regex - Perl-style pattern matching
-db.ships.find({name:{$regex:’^USS\\sE’}})
+db.ships.find({name:{$regex:'^USS\\sE'}})
 
 // $type - search by type of an element
 db.ships.find({name : {$type:2}}) 
